@@ -42,6 +42,6 @@ University: Brest State Technical University, Civil Engineering major
 - CS50 lectures,
 
 ## **Languages**
-Russian - native speaker,
-German - A2,
-English - A2 (B1 in process),
+- Russian - native speaker,
+- German - A2,
+- English - A2 (B1 in process),
