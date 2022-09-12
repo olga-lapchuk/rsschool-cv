@@ -9,7 +9,8 @@
 
 ## **About Me:**
 I worked as a project manager in the construction industry. My job didn't give me the growth I need, which is why I'm here. My goal is to become a front-end developer. I’m interested in Web Development because this occupation provides endless possibilities for professional growth,
-besides there’s a huge amount of free high quality resources for self-education and a large community of developers.
+besides there’s a huge amount of free high quality resources for self-education and a large community of developers. 
+I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
 ## **Skills:**
 
